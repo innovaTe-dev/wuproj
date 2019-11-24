@@ -1,2 +1,2 @@
 # wuproj
-This is a showcase of my projects completed at Washburn University
+This is a showcase of my projects completed at WU
